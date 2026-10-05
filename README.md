@@ -28,6 +28,12 @@ Led adoption for Agentforce Coworker × Grid. 3X growth in one quarter.
 
 ---
 
+## Writing
+
+[Substack](https://substack.com/@varunguruvugari)
+
+---
+
 ## Background
 
 M.S. Embedded Systems, Stevens Institute of Technology.  
