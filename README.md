@@ -1,51 +1,38 @@
 # Varun Guruvugari
 
-> *"There's a moment when you realize you envisioned this a year back, worked hard to make it happen, and shipped something that's never existed before — and will stay for a very long time."*
+I work on Agentforce at Salesforce. The gap between "bought AI" and "using AI" is where I spend most of my time.
+
+14 years in enterprise software. Most of it: making products actually used, not just deployed.
 
 ---
 
-## Record Books
+## Repos
 
-**First agent ever on headless Agentforce** (labs.agentforce.com) — pre-conceptualized, ideated, and built from scratch.
+**[ClaudeAgenticPatterns](https://github.com/VGBRO/ClaudeAgenticPatterns)** — 13 agentic architecture patterns for Claude. Pip-installable utilities and working code. Built to address real cost and latency problems in production agent systems.
 
-- Einstein Bot → Agentforce Agent, fully automated
-- No customer starts from zero
-- 8-figure addressable opportunity, already live
+**[grok-agentforce-enterprise-intelligence](https://github.com/VGBRO/grok-agentforce-enterprise-intelligence)** — External intelligence agent: X + Web → Grok → Salesforce CRM → Agentforce → Action. Replaces manual social listening with a live agentic pipeline.
 
-We didn't wait to be asked. We saw the gap a year ago, built the tool, and put it on the platform.
+**[anywhere-stack](https://github.com/VGBRO/anywhere-stack)** — Modular agent stack on NVIDIA Nemotron + Nebius. NVIDIA × Nebius Global AI Hackathon.
 
-**The record will show we were here first.**
+**[agent-browser-examples](https://github.com/VGBRO/agent-browser-examples)** — 8 browser automation scripts for AI agents.
 
 ---
 
-## Work
+## At Salesforce
 
-### Bot → Agent Migration Pipeline
+Built the Bot → Agent migration pipeline — automated conversion of Einstein Bots to Agentforce Agents. ~3,000 customers had legacy bots with no upgrade path. Built and shipped the tool that changed that. President's Choice Award, 2026.
 
-An end-to-end automated pipeline that converts legacy Einstein Bots (rule-based chatbots) into Agentforce Agents powered by LLM reasoning — using the AgentScript format.
+Co-built the first Agentforce agent on labs.agentforce.com. No customer starts from zero.
 
-**What it does:**
-- Parses Einstein Bot metadata (dialogs, intents, actions, navigation flows)
-- Designs agent architecture automatically
-- Generates production-grade AgentScript
-- Self-healing compilation loop (auto-fixes errors)
-- Deploys to org with one confirmation
-
-**The pipeline:**
-```
-Bot Metadata → Architecture Design → Topic Mapping → AgentScript Generation → Compile → Deploy
-```
-
-2,700+ Einstein Bot customers can self-serve an upgrade today. No one starts from zero.
+Led adoption for Agentforce Coworker × Grid. 3X growth in one quarter.
 
 ---
 
-## Writing
+## Background
 
-*Coming soon.*
+M.S. Embedded Systems, Stevens Institute of Technology.  
+AI Business Strategies, UC Berkeley Haas.
 
 ---
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/varunguruvugari) · [GitHub](https://github.com/VGBRO)
+[LinkedIn](https://www.linkedin.com/in/varunguruvugari)
