@@ -22,7 +22,7 @@ I work on Agentforce at Salesforce. The gap between "bought AI" and "using AI" i
 
 Built the Bot → Agent migration pipeline — automated conversion of Einstein Bots to Agentforce Agents. ~3,000 customers had legacy bots with no upgrade path. Built and shipped the tool that changed that. President's Choice Award, 2026.
 
-Co-built the first Agentforce agent on labs.agentforce.com. No customer starts from zero.
+Co-built the **[Upgrade Agent](https://labs.agentforce.com/upgrade-agent)** — the first agent on labs.agentforce.com. It takes an Einstein Bot and produces a production-ready Agentforce Agent. No customer starts from zero.
 
 Led adoption for Agentforce Coworker × Grid. 3X growth in one quarter.
 
